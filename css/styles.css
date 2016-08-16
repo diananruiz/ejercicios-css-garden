@@ -1,0 +1,64 @@
+header {
+    display: block;
+}
+h1 {
+    text-align: center;
+    font-family: Segoe Script, Verdana;
+}
+h2 {
+    font-family: Segoe Script;
+}
+h3 {
+    font-family: Segoe Script;
+    color: black;
+    font-size: 17px;
+}
+p {
+    font-family: Lato;
+    color: black;
+    text-align: center;
+    font-family: Garamond, serif;
+    font-size: 18px;
+}
+div {
+    display: inline-block;
+    outline: 0;
+    padding: 6px 16px;
+    text-decoration: none;
+    background-color:#ffe6e6;
+    text-align: center;
+}
+body > p {
+         font-weight: bold;
+}
+
+ul p {
+        text-decoration: underline;
+}
+.main supporting {
+    background-color: white;
+}
+.explanation {
+    background-color: white;
+}
+.benefits {
+    background-color: white;
+}
+.design-selection {
+    background-color: white;
+}
+.wrapper {background-color:  #e6fffa;
+}
+.design-archives {
+    background-color: #ffffff;
+}
+ul {
+    background-color: white;
+}
+.summary {
+    background-color: white;
+}
+.next {
+    background-color: white;
+}
+/*perdon por lo feo jajaja*/
